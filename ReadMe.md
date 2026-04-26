@@ -10,7 +10,7 @@ Dedicated developer with a strong foundation in engineering and a deep interest 
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://komarev.com/ghpvc/?username=HonreSari&icon=0&color=0)](https://visitcount.itsvg.in)
