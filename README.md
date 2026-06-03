@@ -8,7 +8,7 @@
   "username": "minthant-n",
   "location": "Yangon, Myanmar",
   "languages":   ["Java", "TypeScript", "JavaScript", "HTML", "CSS"],
-  "learning":    ["System Design", "Microservices", "Cloud Infrastructure"],
+  "learning":    ["System Design", "Microservices"],
   "passion":     "Building clean backends and turning ideas into working software"
 }
 ```
