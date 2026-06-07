@@ -21,18 +21,6 @@ I'm a backend-focused developer working across **Java (Spring Boot)** and **Type
 
 ---
 
-##   My Journey
-
-| Stage | What I Built |
-|-------|-------------|
-| **Java Foundations** | Console apps, a Swing Calculator, Flappy Bird & Pac-Man clones, plain JDBC banking app |
-| **Spring Boot Deep Dive** | 90+ bootcamp projects — MVC, JPA, Security, AOP, Kafka, GraphQL, Cloud Gateway, Docker |
-| **Node.js Backend** | Blog APIs, URL shortener, production-ready backend architecture with layered design |
-| **Redis** | A full restaurant review platform powered entirely by Redis (search, caching, pub/sub) |
-| **React Frontend** | Furniture e-commerce storefront with shadcn/ui, TanStack Query, Zustand |
-| **Microservices** | Home energy tracking system with Kafka, Docker Compose, API Gateway |
-
----
 
 ##   Tech & Tools
 
@@ -63,17 +51,6 @@ I'm a backend-focused developer working across **Java (Spring Boot)** and **Type
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
----
-
-##   Notable Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Backend Architecture](https://github.com/minthant-n/nodejs-backend-architecture-setup) | Production-ready Express backend with layered architecture, caching, auth, and Swagger docs | TypeScript, Express, MongoDB, Redis |
-| [Redis Restaurant Platform](https://github.com/minthant-n/redis-project) | Restaurant review app powered entirely by Redis features | TypeScript, Express, Redis |
-| [Furniture Storefront](https://github.com/minthant-n/furniture-front-end) | Modern e-commerce UI with cart, auth, and blog | React, TypeScript, Tailwind, shadcn/ui |
-| [Shortly API](https://github.com/minthant-n/backend-blog-3-shortly-api) | URL shortening service with auth, email, and logging | TypeScript, Express, MongoDB |
-| [Blog API (Hono)](https://github.com/minthant-n/backend-blog-2) | Modern task API built with Hono + Drizzle + SQLite | TypeScript, Hono, Drizzle, Turso |
 
 ---
 
